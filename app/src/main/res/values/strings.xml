@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="button1">Вывести список студентов</string>
+    <string name="button2">Внести новую запись о студенте</string>
+    <string name="button3">Заменить ФИО в последней записи</string>
+    <string name="add">Добавить</string>
+    <string name="second_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="patronymic">Отчество</string>
+</resources>
